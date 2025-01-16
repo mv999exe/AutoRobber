@@ -4,21 +4,25 @@
       "name": "MV",
       "role": "owenr",
       "email": "user@gmail.com",
+      "phone": "01060544687",
     },
     {
       "name": "Ahmed",
       "role": "admin",
       "email": "ahmed@gmail.com",
+      "phone": "01244674373",
     },
     {
       "name": "Eldaly",
       "role": "admin",
       "email": "eldaly15@gmail.com",
+      "phone": "01234689645",
     },
     {
       "name": "Abnasser",
       "role": "admin",
       "email": "abnasserrr@gmail.com",
+      "phone": "01124335678",
     }
   ],
 }
