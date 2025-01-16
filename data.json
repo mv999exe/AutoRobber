@@ -1,25 +1,20 @@
 {
-  "users": [
+  "admins": [
     {
-      "_comment": "Boold",
-      "mac_address": "88:57:c4:6a:cc:4c",
-      "end_date": "2025-12-1"
+      "name": "MV",
+      "role": "owenr",
     },
     {
-      "_comment": "MV",
-      "mac_address": "bd:3b:66:0a:13:e2",
-      "end_date": "2026-1-10"
+      "name": "Ahmed",
+      "role": "admin",
     },
     {
-      "_comment": "Eldaly",
-      "mac_address": "58:30:b9:71:9d:ed",
-      "end_date": "2077-1-1"
+      "name": "Eldaly",
+      "role": "admin",
     },
     {
-      "_comment": "3bnasser",
-      "mac_address": "yyyy",
-      "end_date": "2077-1-1"
+      "name": "Abnasser",
+      "role": "admin",
     }
   ],
-  "time_zone": "Africa/Cairo"
 }
