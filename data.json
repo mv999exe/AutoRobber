@@ -3,18 +3,22 @@
     {
       "name": "MV",
       "role": "owenr",
+      "email": "user@gmail.com",
     },
     {
       "name": "Ahmed",
       "role": "admin",
+      "email": "ahmed@gmail.com",
     },
     {
       "name": "Eldaly",
       "role": "admin",
+      "email": "eldaly15@gmail.com",
     },
     {
       "name": "Abnasser",
       "role": "admin",
+      "email": "abnasserrr@gmail.com",
     }
   ],
 }
